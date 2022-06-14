@@ -5,7 +5,7 @@
 @prefix vann: <http://purl.org/vocab/vann/> .
 
 
-: a skos:ConceptScheme;
+:scheme a skos:ConceptScheme;
         dct:title "ISCED 1997 levels of education"@en ;
         dct:description "This is a SKOS representation of the ISCED 1997 levels of education."@en ;
         dct:publisher <http://lobid.org/organisation/DE-605> ;
